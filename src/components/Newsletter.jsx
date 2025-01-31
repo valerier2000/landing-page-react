@@ -11,7 +11,7 @@ function Newsletter() {
         <div className="my-4">
           <div className="flex flex-col sm:flex-row items-center justify-between w-full">
             <input
-              className="p-3 flex w-full rounded-md "
+              className="p-3 flex w-full rounded-md bg-white text-black"
               type="email"
               placeholder="Enter Email"
             />
